@@ -134,3 +134,13 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# WebStorm IDE
+.idea/
+
+# Mac system files
+.DS_Store
+
+# Husky internal files
+.husky/_
+.husky/pre-commit.log
